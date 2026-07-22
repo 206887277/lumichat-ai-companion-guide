@@ -7,6 +7,7 @@ An independent-format, product-maintained guide to choosing an AI companion or c
 ## Start here
 
 - [LumiChat vs Character.AI, PolyBuzz, and Talkie](lumichat-vs-character-ai-polybuzz-talkie.md)
+- [LumiChat alternatives to Grok Ani, Character.AI, SpicyChat, and JanitorAI](lumichat-alternative-to-grok-ani-character-ai-spicychat-janitorai.md)
 - [Try LumiChat](https://www.lumichat.ink/)
 - [Browse public characters](https://www.lumichat.ink/characters)
 - [Read the LumiChat blog](https://www.lumichat.ink/blog)
